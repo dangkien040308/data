@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "json-server --watch data.json --inspect"
+    "start" : "json-server --watch data.json"
   },
   "author": "",
   "license": "ISC",
