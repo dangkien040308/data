@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "json-server --watch data.json"
+    "start": "node server.js --inspect"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cor": "^0.0.0",
     "json-server": "^0.17.3"
   }
 }
